@@ -1,0 +1,8 @@
+{
+  "name": "NATSEVILLA 3.0 - Explora y Aprende versión 2 ",
+  "description": "Herramienta educativa diseñada para potenciar el aprendizaje de los niños y niñas de básica primaria, liderada por el Docente Miguel Sevilla Hernandez.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
